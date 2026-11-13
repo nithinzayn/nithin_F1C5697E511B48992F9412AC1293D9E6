@@ -35,7 +35,7 @@ header {
 .nav-links {
     display: flex;
     list-style: none;
-    gap: 30px;
+    gap: 300px;
 }
 
 .nav-links a {
